@@ -11,12 +11,12 @@ Simple RESTful API for storing and managing files using Discord as storage.
 > I was wrong, with proper software engineer efforts, ai can become a useful tool.
 
 > [!WARNING]
-> "AI will replace programmers" - it's still a marketing scam. But with the right software engineering experience, AI can be a great tool.
+> "AI will replace programmers" - it's still a marketing scam.  > But with the right software engineering experience, AI can be a great tool.
 
 > [!IMPORTANT]
-> This project was created as an experiment and proof of concept.
-> Using Discord as a file hosting service likely violates Discord's Terms of Service.
-> This code is provided for educational purposes only.
+> This project was created as an experiment and proof of concept.  
+> Using Discord as a file hosting service likely violates Discord's Terms of Service.  
+> This code is provided for educational purposes only.  
 > I take no responsibility for any malicious use of this codebase or potential Discord TOS violations.
 
 ## Features
@@ -130,3 +130,9 @@ AI (Assistant):
 
 It turned out to be a really effective workflow - having AI handle the implementation details
 while I focused on the bigger picture and architecture decisions.
+
+## TLDR
+
+99% of this repo written with ai, no jokes.  
+backend, swagger, even this readme - ai did it.  
+yes, there were classic problems like "suggest things that don't exist" or "responding with a code change, but without actually changing" and other llm classics - but overall it was a pleasant experience.
